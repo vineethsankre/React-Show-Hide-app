@@ -1,0 +1,49 @@
+.bg-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #fff;
+  font-size: 48px;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+.show-hide-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.button {
+  background-color: #fff;
+  color: #dd1264;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+}
+.name-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  height: 200px;
+  margin-left: 32px;
+  margin-right: 32px;
+}
+.name {
+  color: #000;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Roboto";
+  background-color: #fddddb;
+  padding: 48px 106px;
+  border-radius: 12px;
+}
