@@ -55,15 +55,6 @@ Use these files to complete the implementation:
 - `src/components/ShowHide/index.css`
 </details>
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-<br/>
-**The following instructions are required for the tests to pass**
-
-- Achieve the given layout using only Conditional Rendering
-</details>
 
 ### Resources
 
